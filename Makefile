@@ -54,7 +54,7 @@ OBJ        = $(PROGRAM).o
 OPTIMIZE   = -O2
 
 DEFS       = 
-LIBS       =
+LIBS       = sonar.h
 
 CC         = avr-gcc
 
